@@ -1,4 +1,4 @@
-## BlockchainStartUp
+## Blockchain 区块链 - 中文资源阅读列表
 
 ### 技术&算法
 
