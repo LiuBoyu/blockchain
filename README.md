@@ -2,10 +2,10 @@
 
 ## 基础知识
 
-* [<<区块链技术指南>>](https://yeasy.gitbooks.io/blockchain_guide/content)
-
 ### 理论基础
 
+* [<<区块链技术指南>>](https://yeasy.gitbooks.io/blockchain_guide/content)
+>
 * [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm)
 * [区块链核心技术演进之路－挖矿演进](http://www.8btc.com/blockchain-tech-mining)
 * [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism)
@@ -18,14 +18,18 @@
 ### Merkle Patricia Tree - 梅克尔帕特里夏树 (Ethereum)
 
 * [Understanding the Ethereum Trie](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie) - Ethereum 推荐
-* [Patricia Tree 官方文档(英文)](https://github.com/ethereum/wiki/wiki/Patricia-Tree) - Ethereum Wiki
+* [Ethereum Patricia Tree](https://github.com/ethereum/wiki/wiki/Patricia-Tree) - Ethereum Wiki
+>
 * [深入浅出以太坊MPT (Merkle Patricia Tree) ](http://blog.csdn.net/qq_33935254/article/details/55505472)
 * [Merkle Patricia Tree (MPT) 以太坊merkle技术分析](http://blog.csdn.net/zslomo/article/details/53434883?t=1498537389197)
 * [Merkle Patricia Tree (MPT) 详解](http://www.cnblogs.com/fengzhiwu/p/5584809.html)
+>
+* [Ethereum RLP](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-RLP) - Ethereum Wiki
 * [RLP编码原理](https://my.oschina.net/u/2349981/blog/894117)
-* [RLP官方文档(中文)](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-RLP) - Ethereum Wiki
 
-### TODO
+### Ethereum - 以太坊
+
+* [以太坊白皮书](https://github.com/ethereum/wiki/blob/master/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6.md) / [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper) - Ethereum Wiki
 
 ## 常用术语
 
