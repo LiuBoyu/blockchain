@@ -8,6 +8,7 @@
 * POW - 工作量证明, Proof-Of-Work, 挖矿 (mine)
 * POS - 权益证明, Proof-of-Stake, 铸造 (mint)
 * NXT - 锻造 (forge)
+* DPOS - 股权证明, Delegated Proof-Of-Stake
 * PBFT - Hyperledger Fabric
 * DBFT - 小蚁
 * PAXOS - 传统分布式一致性算法
