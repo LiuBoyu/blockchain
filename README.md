@@ -4,6 +4,7 @@
 
 ### 理论基础
 
+* [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book/)
 * [<<区块链技术指南>>](https://yeasy.gitbooks.io/blockchain_guide/content)
 >
 * [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm)
