@@ -2,11 +2,18 @@
 
 ## 基础知识
 
-### 理论基础
+### 入门书籍
 
 * [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book/)
 * [<<区块链技术指南>>](https://yeasy.gitbooks.io/blockchain_guide/content)
->
+
+### 行业报告
+
+* [<<高盛区块链报告：区块链·从理论走向实践>>](http://book.8btc.com/books/1/gaosheng_blockchain_report/_book/)
+* [<<区块链重构金融？>>](http://book.8btc.com/books/6/thfr201704/_book/)
+
+### 理论基础
+
 * [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm)
 * [区块链核心技术演进之路－挖矿演进](http://www.8btc.com/blockchain-tech-mining)
 * [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism)
@@ -31,6 +38,7 @@
 ### Ethereum - 以太坊
 
 * [以太坊白皮书](https://github.com/ethereum/wiki/blob/master/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6.md) / [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper) - Ethereum Wiki
+* [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book/)
 
 ## 常用术语
 
