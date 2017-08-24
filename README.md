@@ -13,7 +13,7 @@
 ### Merkle Tree - 梅克尔树
 
 * [Merkle Tree 学习](http://www.cnblogs.com/fengzhiwu/p/5524324.html)
-* [谈谈以太坊的Merkle树](http://www.8btc.com/merkling-in-ethereum) / [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum) - Vitalik Buterin
+* [谈谈以太坊的Merkle树](http://www.8btc.com/merkling-in-ethereum) / [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum) - Vitalik Buterin
 
 ### Merkle Patricia Tree - 梅克尔帕特里夏树
 
