@@ -10,15 +10,19 @@
 * [区块链核心技术演进之路－挖矿演进](http://www.8btc.com/blockchain-tech-mining)
 * [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism)
 
-### Merkle Tree - 梅克尔树
+### Merkle Tree - 梅克尔树 (Bitcoin)
 
 * [Merkle Tree 学习](http://www.cnblogs.com/fengzhiwu/p/5524324.html)
 * [谈谈以太坊的Merkle树](http://www.8btc.com/merkling-in-ethereum) / [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum) - Vitalik Buterin
 
-### Merkle Patricia Tree - 梅克尔帕特里夏树
+### Merkle Patricia Tree - 梅克尔帕特里夏树 (Ethereum)
 
 * [Merkle Patricia Tree (MPT) 详解](http://www.cnblogs.com/fengzhiwu/p/5584809.html)
-* TODO
+* [Understanding the Ethereum Trie](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie)
+* [Merkle Patricia Tree (MPT) 以太坊merkle技术分析](http://blog.csdn.net/zslomo/article/details/53434883?t=1498537389197)
+* [深入浅出以太坊MPT (Merkle Patricia Tree) ](http://blog.csdn.net/qq_33935254/article/details/55505472)
+* [RLP编码原理](https://my.oschina.net/u/2349981/blog/894117)
+* [RLP官方文档](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-RLP) - Ethereum Wiki
 
 ### TODO
 
