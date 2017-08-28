@@ -4,9 +4,8 @@
 
 ### 入门书籍
 
-* [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book)
 * [<<区块链技术指南>>](https://yeasy.gitbooks.io/blockchain_guide/content)
-* [<<Node.js开发加密货币>>](http://bitcoin-on-nodejs.ebookchain.org)
+* [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book)
 
 ### 行业报告
 
@@ -18,6 +17,16 @@
 * [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm)
 * [区块链核心技术演进之路－挖矿演进](http://www.8btc.com/blockchain-tech-mining)
 * [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism)
+>
+* [其实并没有什么比特币，只有 UTXO](http://8btc.com/article-4381-1.html)
+
+### 相关文章
+
+* [R3 Corda：一个为金融服务设计的分布式账本系统](http://ethfans.org/posts/r3-corda-announcement) / [Introducing R3 Corda™: A Distributed Ledger Designed for Financial Services](http://www.r3cev.com/blog/2016/4/4/introducing-r3-corda-a-distributed-ledger-designed-for-financial-services) - 推荐(虽然并不完全认同其观点，但他的思考方式非常值得借鉴)
+
+### 相关书籍
+
+* [<<Node.js开发加密货币>>](http://bitcoin-on-nodejs.ebookchain.org) - 不推荐，随便看看就好
 
 ### Merkle Tree - 梅克尔树 (Bitcoin)
 
@@ -47,7 +56,9 @@
 * 拜占庭将军问题 - Byzantine Generals Problem
 * 拜占庭容错 - Byzantine Fault-Tolerant, BFT
 * 纳什均衡 -
+* 双花攻击/双重支付攻击 - Double-Spend Attack
 >
+* SPV - 简单支付验证
 * POW - 工作量证明, Proof-Of-Work, 挖矿 (mine)
 * POS - 权益证明, Proof-of-Stake, 铸造 (mint)
 * NXT - 锻造 (forge)
@@ -73,4 +84,19 @@
 >
 * Auxiliary Proof-of-Work - AuxPOW
 * Auxiliary Blockchain
+
+## Bitcoin网络协议
+
+* version
+* verack
+* addr
+* getaddr
+* getblocks           本地区块链的顶端区块哈希值
+* inv                 补充区块的哈希值
+* getdata             请求得到全区块信息
+* getheaders
+* headers
+* filterload
+* filteradd
+* filterclear
 
