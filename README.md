@@ -14,6 +14,8 @@
 
 ### 理论基础
 
+* [比特币白皮书：一种点对点的电子现金系统](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
+>
 * [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm)
 * [区块链核心技术演进之路－挖矿演进](http://www.8btc.com/blockchain-tech-mining)
 * [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism)
@@ -27,6 +29,11 @@
 ### 相关书籍
 
 * [<<Node.js开发加密货币>>](http://bitcoin-on-nodejs.ebookchain.org) - 不推荐，随便看看就好
+
+### 相关社区
+
+* [巴比特](http://www.8btc.com/)
+* [Ethfans](http://ethfans.org/)
 
 ### Merkle Tree - 梅克尔树 (Bitcoin)
 
@@ -44,6 +51,15 @@
 >
 * [Ethereum RLP](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-RLP) - Ethereum Wiki
 * [RLP编码原理](https://my.oschina.net/u/2349981/blog/894117)
+
+### 楔入式侧链 - Pegged Sidechains
+
+* [侧链白皮书：用楔入式侧链实现区块链的创新](http://www.8btc.com/enabling-blockchain-innovations-with-pegged-sidechains-abstract-introduction)
+
+### 闪电网络 - Lightning Network
+
+* [比特币闪电网络白皮书：可扩展的off-chain 即时支付（中文）](http://view.xiaomiquan.com/view/59a3e22d2540ed222c6075b8)
+* [详解最近大热的闪电网络、雷电网络和CORDA](http://www.8btc.com/ln-rn-corda)
 
 ### Ethereum - 以太坊
 
