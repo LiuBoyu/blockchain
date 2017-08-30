@@ -35,6 +35,10 @@
 * [巴比特](http://www.8btc.com/)
 * [Ethfans](http://ethfans.org/)
 
+### 相关公司
+
+* [国内外区块链项目/联盟汇总](http://www.jianshu.com/p/00e17ee7c646)
+
 ### Merkle Tree - 梅克尔树 (Bitcoin)
 
 * [Merkle Tree 学习](http://www.cnblogs.com/fengzhiwu/p/5524324.html)
@@ -51,6 +55,11 @@
 >
 * [Ethereum RLP](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-RLP) - Ethereum Wiki
 * [RLP编码原理](https://my.oschina.net/u/2349981/blog/894117)
+
+### 隔离见证 - SegWit, Segregated Witness
+
+* [隔离见证学习笔记](http://www.8btc.com/tan90d34)
+* [通往SegWit的漫长之路：比特币最大的协议升级是如何成为现实的](http://www.8btc.com/segwit-0829) - 推荐(关于SegWit的前生今世)
 
 ### 楔入式侧链 - Pegged Sidechains
 
@@ -83,6 +92,7 @@
 * DBFT - 小蚁
 * PAXOS - 传统分布式一致性算法
 * RAFT - 传统分布式一致性算法
+* DMMS - Dynamic Membership Multiparty Signatures
 >
 * SHA256 - bitcoin
 * SCRYPT - litecoin
