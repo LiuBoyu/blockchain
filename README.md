@@ -21,6 +21,8 @@
 * [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism)
 >
 * [其实并没有什么比特币，只有 UTXO](http://8btc.com/article-4381-1.html)
+>
+* [对去中心化含义的深层思考：究竟是谁控制着区块链？](http://www.8btc.com/who-controls-blockchain)
 
 ### 相关文章
 
@@ -72,8 +74,29 @@
 
 ### Ethereum - 以太坊
 
+* ETC - Ethereum Classic, 以太坊原链
+* ETH - Ethereum
+>
 * [以太坊白皮书](https://github.com/ethereum/wiki/blob/master/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6.md) / [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper) - Ethereum Wiki
 * [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book)
+* [Teahour 以太坊专访-文字版](http://ethfans.org/shaoping/articles/talk-with-jan-about-ehtereum) - 强烈推荐
+>
+* [实现这些扩容方案，以太坊将可支持10亿用户](http://www.8btc.com/scaling-ethereum-to-billions-of-users)
+
+### The DAO - 去中心化的自治组织, Decentralized Autonomous Organization
+
+* [道or悼？三分钟看懂史上最逆天的区块链众筹项目The DAO](http://www.8btc.com/what-is-the-dao)
+* [理解The DAO为什么属于证券的最简单方法](http://www.jinse.com/news/blockchain/50751.html)
+* [从“脱欧”与“惊世DAO窃”谈区块链——论共识、分叉、去中心化与安全](http://www.8btc.com/brexit-and-the-dao)
+
+### Zcash
+
+* [给Zcash泼泼冷水-有了深黑，市场真的需要纯黑吗？](http://8btc.com/thread-41384-1-1.html) - 推荐
+
+### 零知识证明 - Zero-Knowledge Proof
+
+* [阿里巴巴的零知识证明](http://songshuhui.net/archives/36968)
+* [不是程序员也能看懂的ZCash零知识证明](http://www.sohu.com/a/121847942_475384)
 
 ## 常用术语
 
