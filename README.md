@@ -79,9 +79,14 @@
 >
 * [以太坊白皮书](https://github.com/ethereum/wiki/blob/master/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6.md) / [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper) - Ethereum Wiki
 * [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book)
+>
 * [Teahour 以太坊专访-文字版](http://ethfans.org/shaoping/articles/talk-with-jan-about-ehtereum) - 强烈推荐
+* [智能合约](http://ethfans.org/wikis/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
+* [以太坊开发计划](http://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)
 >
 * [实现这些扩容方案，以太坊将可支持10亿用户](http://www.8btc.com/scaling-ethereum-to-billions-of-users)
+>
+* [以太坊开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 
 ### The DAO - 去中心化的自治组织, Decentralized Autonomous Organization
 
