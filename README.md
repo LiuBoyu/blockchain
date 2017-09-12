@@ -1,6 +1,8 @@
 # Blockchain 区块链 - 中文资源阅读列表
 
-## 基础知识
+----------------
+
+## 新手入门
 
 ### 入门书籍
 
@@ -14,23 +16,13 @@
 
 ### 理论基础
 
-* [比特币白皮书：一种点对点的电子现金系统](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
->
-* [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm)
-* [区块链核心技术演进之路－挖矿演进](http://www.8btc.com/blockchain-tech-mining)
-* [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism)
->
-* [其实并没有什么比特币，只有 UTXO](http://8btc.com/article-4381-1.html)
->
 * [对去中心化含义的深层思考：究竟是谁控制着区块链？](http://www.8btc.com/who-controls-blockchain)
+* [比原链联合创始人段新星：希望建立起连接比特世界和原子世界资产交互的桥梁](http://www.8btc.com/bytom-duanxinxing)
+* [区块链理论学习入门指南](https://daimajia.com/2017/08/24/how-to-start-blockchain-learning)
 
 ### 相关文章
 
 * [R3 Corda：一个为金融服务设计的分布式账本系统](http://ethfans.org/posts/r3-corda-announcement) / [Introducing R3 Corda™: A Distributed Ledger Designed for Financial Services](http://www.r3cev.com/blog/2016/4/4/introducing-r3-corda-a-distributed-ledger-designed-for-financial-services) - 推荐(虽然并不完全认同其观点，但他的思考方式非常值得借鉴)
-
-### 相关书籍
-
-* [<<Node.js开发加密货币>>](http://bitcoin-on-nodejs.ebookchain.org) - 不推荐，随便看看就好
 
 ### 相关社区
 
@@ -40,6 +32,10 @@
 ### 相关公司
 
 * [国内外区块链项目/联盟汇总](http://www.jianshu.com/p/00e17ee7c646)
+
+----------------
+
+## 基础知识
 
 ### Merkle Tree - 梅克尔树 (Bitcoin)
 
@@ -58,24 +54,70 @@
 * [Ethereum RLP](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-RLP) - Ethereum Wiki
 * [RLP编码原理](https://my.oschina.net/u/2349981/blog/894117)
 
-### 隔离见证 - SegWit, Segregated Witness
+### 共识机制
 
-* [隔离见证学习笔记](http://www.8btc.com/tan90d34)
-* [通往SegWit的漫长之路：比特币最大的协议升级是如何成为现实的](http://www.8btc.com/segwit-0829) - 推荐(关于SegWit的前生今世)
+### 密码学
+### 博弈论
 
-### 楔入式侧链 - Pegged Sidechains
+### 隐私保护
 
-* [侧链白皮书：用楔入式侧链实现区块链的创新](http://www.8btc.com/enabling-blockchain-innovations-with-pegged-sidechains-abstract-introduction)
+#### 零知识证明 - Zero-Knowledge Proof
 
-### 闪电网络 - Lightning Network
+* [阿里巴巴的零知识证明](http://songshuhui.net/archives/36968)
+
+### 交易性能
+
+#### 闪电网络 - Lightning Network
 
 * [比特币闪电网络白皮书：可扩展的off-chain 即时支付（中文）](http://view.xiaomiquan.com/view/59a3e22d2540ed222c6075b8)
 * [详解最近大热的闪电网络、雷电网络和CORDA](http://www.8btc.com/ln-rn-corda)
 
-### Ethereum - 以太坊
+### 跨链技术
 
+#### 楔入式侧链 - Pegged Sidechains
+
+* [侧链白皮书：用楔入式侧链实现区块链的创新](http://www.8btc.com/enabling-blockchain-innovations-with-pegged-sidechains-abstract-introduction)
+
+### 智能合约
+
+----------------
+
+## Blockchain v1.0
+
+### Bitcoin
+
+* [比特币白皮书：一种点对点的电子现金系统](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
+* [其实并没有什么比特币，只有 UTXO](http://8btc.com/article-4381-1.html)
+* [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm)
+* [区块链核心技术演进之路－挖矿演进](http://www.8btc.com/blockchain-tech-mining)
+* [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism)
+
+### [Bitcoin Core - BTC](https://bitcoin.org/) - (Bitcoin - 交易性能: SegWit), [github](https://github.com/bitcoin/bitcoin)
+
+* [隔离见证学习笔记](http://www.8btc.com/tan90d34)
+* [通往SegWit的漫长之路：比特币最大的协议升级是如何成为现实的](http://www.8btc.com/segwit-0829) - 推荐(关于SegWit的前生今世)
+
+### [Bitcoin Cash - BCC](https://bitcoincash.org/) - (Bitcoin - 交易性能: 扩容8M), [github](https://github.com/Bitcoin-ABC/bitcoin-abc)
+
+* [如何看待新虚拟货币Bitcoin Cash（BCC）？](https://www.zhihu.com/question/63109943)
+
+### [Zcash - ZEC](https://z.cash/) - (Bitcoin - 隐私保护: 零知识证明), [github](https://github.com/zcash/zcash)
+
+* [给Zcash泼泼冷水-有了深黑，市场真的需要纯黑吗？](http://8btc.com/thread-41384-1-1.html) - 推荐
+* [不是程序员也能看懂的ZCash零知识证明](http://www.sohu.com/a/121847942_475384)
+
+### Zcoin
+### Dash
+### Monero
+
+----------------
+
+## Blockchain v2.0 - Ethereum
+
+### [Ethereum - ETH](https://ethereum.org/) - (v2.0 - 智能合约), [github](https://github.com/ethereum/go-ethereum)
+
+* ETH - Ethereum, 以太坊
 * ETC - Ethereum Classic, 以太坊原链
-* ETH - Ethereum
 >
 * [以太坊白皮书](https://github.com/ethereum/wiki/blob/master/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6.md) / [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper) - Ethereum Wiki
 * [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book)
@@ -85,23 +127,53 @@
 * [以太坊开发计划](http://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)
 >
 * [实现这些扩容方案，以太坊将可支持10亿用户](http://www.8btc.com/scaling-ethereum-to-billions-of-users)
->
-* [以太坊开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 
-### The DAO - 去中心化的自治组织, Decentralized Autonomous Organization
+#### 智能合约
+
+* [以太坊开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+* [Solidity 官方文档中文版](http://wiki.jikexueyuan.com/project/solidity-zh/)
+* [区块链技术-智能合约-以太坊（译文）](http://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum) - 简单易懂的例子“智能赞助”
+
+#### Dapps
+
+##### The DAO (Ethereum) - 去中心化的自治组织, Decentralized Autonomous Organization
 
 * [道or悼？三分钟看懂史上最逆天的区块链众筹项目The DAO](http://www.8btc.com/what-is-the-dao)
 * [理解The DAO为什么属于证券的最简单方法](http://www.jinse.com/news/blockchain/50751.html)
 * [从“脱欧”与“惊世DAO窃”谈区块链——论共识、分叉、去中心化与安全](http://www.8btc.com/brexit-and-the-dao)
 
-### Zcash
+##### Swarm (Ethereum)
 
-* [给Zcash泼泼冷水-有了深黑，市场真的需要纯黑吗？](http://8btc.com/thread-41384-1-1.html) - 推荐
+----------------
 
-### 零知识证明 - Zero-Knowledge Proof
+## Blockchain v2.0 - Others
 
-* [阿里巴巴的零知识证明](http://songshuhui.net/archives/36968)
-* [不是程序员也能看懂的ZCash零知识证明](http://www.sohu.com/a/121847942_475384)
+### NEO
+### Qtum
+
+----------------
+
+## 去中心化存储
+
+### [IPFS](https://ipfs.io/)
+
+* [白皮书·中文](https://gguoss.github.io/2017/05/28/ipfs/)
+* [白皮书·英文](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
+
+### [Filecoin](http://filecoin.io/)
+
+* [白皮书·中文](http://chainx.org/paper/index/index/id/13.html)
+* [白皮书·英文](https://filecoin.io/filecoin.pdf)
+
+### [BigchainDB](https://www.bigchaindb.com/)
+
+* [白皮书·中文](http://blog.csdn.net/fengqing79/article/details/70154076)
+* [白皮书·英文](https://www.bigchaindb.com/whitepaper/)
+
+## 去中心化处理
+## 去中心化通信
+
+----------------
 
 ## 常用术语
 
@@ -138,6 +210,8 @@
 >
 * Auxiliary Proof-of-Work - AuxPOW
 * Auxiliary Blockchain
+
+----------------
 
 ## Bitcoin网络协议
 
