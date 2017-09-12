@@ -56,6 +56,9 @@
 
 ### 共识机制
 
+* [微信PaxosStore：深入浅出Paxos算法协议](http://www.infoq.com/cn/articles/wechat-paxosstore-paxos-algorithm-protocol)
+* [Raft 一致性算法论文译文](http://www.infoq.com/cn/articles/raft-paper)
+
 ### 密码学
 ### 博弈论
 
@@ -163,6 +166,8 @@
     2. 去中心化计算平台（“区块链平台”）
     3. 去中心化处理（“智能合约”）, 去中心化存储（文件系统，数据库）, 以及去中心化通信
     4. 密码原语，一致性协议，和其他算法
+
+* [区块链底层架构概览：第一原则框架](http://ethfans.org/posts/blockchain-infrastructure-landscape-a-first-principles) - 推荐
 
 ### 去中心化存储
 
