@@ -16,9 +16,9 @@
 
 ### 理论基础
 
+* [区块链理论学习入门指南](https://daimajia.com/2017/08/24/how-to-start-blockchain-learning)
 * [对去中心化含义的深层思考：究竟是谁控制着区块链？](http://www.8btc.com/who-controls-blockchain)
 * [比原链联合创始人段新星：希望建立起连接比特世界和原子世界资产交互的桥梁](http://www.8btc.com/bytom-duanxinxing)
-* [区块链理论学习入门指南](https://daimajia.com/2017/08/24/how-to-start-blockchain-learning)
 
 ### 相关文章
 
@@ -80,6 +80,8 @@
 
 ### 智能合约
 
+* TODO
+
 ----------------
 
 ## Blockchain v1.0
@@ -128,21 +130,21 @@
 >
 * [实现这些扩容方案，以太坊将可支持10亿用户](http://www.8btc.com/scaling-ethereum-to-billions-of-users)
 
-#### 智能合约
+### 智能合约
 
 * [以太坊开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 * [Solidity 官方文档中文版](http://wiki.jikexueyuan.com/project/solidity-zh/)
 * [区块链技术-智能合约-以太坊（译文）](http://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum) - 简单易懂的例子“智能赞助”
 
-#### Dapps
+### Dapps
 
-##### The DAO (Ethereum) - 去中心化的自治组织, Decentralized Autonomous Organization
+#### The DAO (Ethereum) - 去中心化的自治组织, Decentralized Autonomous Organization
 
 * [道or悼？三分钟看懂史上最逆天的区块链众筹项目The DAO](http://www.8btc.com/what-is-the-dao)
 * [理解The DAO为什么属于证券的最简单方法](http://www.jinse.com/news/blockchain/50751.html)
 * [从“脱欧”与“惊世DAO窃”谈区块链——论共识、分叉、去中心化与安全](http://www.8btc.com/brexit-and-the-dao)
 
-##### Swarm (Ethereum)
+#### Swarm (Ethereum)
 
 ----------------
 
@@ -153,25 +155,34 @@
 
 ----------------
 
-## 去中心化存储
+## 区块链架构技术
 
-### [IPFS](https://ipfs.io/)
+    区块链作为一个整体被重构成包含四层程序栈的组件:
+
+    1. 应用程序
+    2. 去中心化计算平台（“区块链平台”）
+    3. 去中心化处理（“智能合约”）, 去中心化存储（文件系统，数据库）, 以及去中心化通信
+    4. 密码原语，一致性协议，和其他算法
+
+### 去中心化存储
+
+#### [IPFS](https://ipfs.io/)
 
 * [白皮书·中文](https://gguoss.github.io/2017/05/28/ipfs/)
 * [白皮书·英文](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
 
-### [Filecoin](http://filecoin.io/)
+#### [Filecoin](http://filecoin.io/)
 
 * [白皮书·中文](http://chainx.org/paper/index/index/id/13.html)
 * [白皮书·英文](https://filecoin.io/filecoin.pdf)
 
-### [BigchainDB](https://www.bigchaindb.com/)
+#### [BigchainDB](https://www.bigchaindb.com/)
 
 * [白皮书·中文](http://blog.csdn.net/fengqing79/article/details/70154076)
 * [白皮书·英文](https://www.bigchaindb.com/whitepaper/)
 
-## 去中心化处理
-## 去中心化通信
+### 去中心化处理
+### 去中心化通信
 
 ----------------
 
