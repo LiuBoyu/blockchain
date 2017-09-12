@@ -158,6 +158,35 @@
 
 ----------------
 
+## Blockchain - DAG
+
+* [DAG与区块链简介](http://www.qukuaiwang.com.cn/news/1913.html)
+* [IOTA快速入门简介](https://steemit.com/cn/@niking/iota)
+
+### [IOTA](https://iota.org/) - (DAG)
+
+* [白皮书·中文](http://www.iotachina.com/wp-content/uploads/2016/11/2016112902003453.pdf)
+* [白皮书·英文](https://iota.org/IOTA_Whitepaper.pdf)
+
+### [Byteball](https://byteball.org/) - (DAG)
+
+* [白皮书·中文] [一](http://www.bitett.com/portal.php?mod=view&aid=438), [二](http://www.bitett.com/portal.php?mod=view&aid=453), [三](https://bitcointalk.org/index.php?topic=1840404)
+* [白皮书·英文](https://byteball.org/Byteball.pdf)
+
+### [EP-CHAIN 环净链](https://ep-chain.org/) - (DAG), 国内ICO项目
+
+* [白皮书·中文](https://ep-chain.org/download/EPC_v1.00.pdf) - 白皮书内有关于IOTA和Byteball的原理说明
+
+### [Nerthus 纳尔图](http://www.nerthus.io/) - (DAG), 国内ICO项目
+
+* [白皮书·中文](http://www.nerthus.io/static/downfile/NerthusWhitePage.pdf) - 白皮书内有关于IOTA和Byteball的原理说明
+
+### [AskCoin](https://askcoin.org/) - (DAG), 国内ICO项目
+
+* [白皮书·中文](https://askcoin.org/askcoin_white_paper_cn.pdf) - 白皮书内有关于IOTA和Byteball的原理说明
+
+----------------
+
 ## 区块链架构技术
 
     区块链作为一个整体被重构成包含四层程序栈的组件:
