@@ -69,25 +69,13 @@
 * [阿里巴巴的零知识证明](http://songshuhui.net/archives/36968)
 
 ### 交易性能
-
-#### 闪电网络 - Lightning Network
-
-* [比特币闪电网络白皮书：可扩展的off-chain 即时支付（中文）](http://view.xiaomiquan.com/view/59a3e22d2540ed222c6075b8)
-* [详解最近大热的闪电网络、雷电网络和CORDA](http://www.8btc.com/ln-rn-corda)
-
 ### 跨链技术
-
-#### 楔入式侧链 - Pegged Sidechains
-
-* [侧链白皮书：用楔入式侧链实现区块链的创新](http://www.8btc.com/enabling-blockchain-innovations-with-pegged-sidechains-abstract-introduction)
 
 ### 智能合约
 
-* TODO
-
 ----------------
 
-## Blockchain v1.0
+## Blockchain v1.0 - Bitcoin
 
 ### Bitcoin
 
@@ -117,6 +105,51 @@
 
 ----------------
 
+## Blockchain v1.0 - 跨链技术(侧链)
+
+* [区块链的跨链技术介绍完整版](http://blog.csdn.net/elwingao/article/details/53410750)
+* [比原链设计思考：侧链存在的价值](http://www.8btc.com/bytom-sidechain)
+* [谈一谈：侧链、驱动链和Rootstock双向挂钩设计](http://www.8btc.com/sidechains-drivechains-and-rsk-2-way-peg-design)
+
+### [Sidechains](https://blockstream.com/technology/) - (Bitcoin侧链: 楔入式侧链 - Pegged Sidechains, 闪电网络 - Lightning Network)
+
+* [侧链白皮书：用楔入式侧链实现区块链的创新](http://www.8btc.com/enabling-blockchain-innovations-with-pegged-sidechains-abstract-introduction)
+>
+* [比特币闪电网络白皮书：可扩展的off-chain 即时支付（中文）](http://view.xiaomiquan.com/view/59a3e22d2540ed222c6075b8)
+* [详解最近大热的闪电网络、雷电网络和CORDA](http://www.8btc.com/ln-rn-corda)
+
+### [Rootstock - RSK](http://www.rsk.co/) - (Bitcoin侧链: 智能合约)
+
+* [根链（Rootstock）是什么？](http://www.8btc.com/tan90d88)
+* [根链平台(RootStock)——基于比特币驱动的智能合约白皮书](http://www.8btc.com/tan90d84)
+* [BTC-Relay与RootStock侧链技术对比](http://www.8btc.com/btc-relay-and-rootstock)
+
+### [BTC Relay](http://btcrelay.org/) - (Ethereum侧链: 跨链 -> Bitcoin)
+
+### [Polkadot]()
+### [Cosmos]()
+
+----------------
+
+## Blockchain v1.0 - 去中心化存储
+
+### [IPFS](https://ipfs.io/)
+
+* [白皮书·中文](https://gguoss.github.io/2017/05/28/ipfs/)
+* [白皮书·英文](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
+
+### [Filecoin](http://filecoin.io/)
+
+* [白皮书·中文](http://chainx.org/paper/index/index/id/13.html)
+* [白皮书·英文](https://filecoin.io/filecoin.pdf)
+
+### [BigchainDB](https://www.bigchaindb.com/)
+
+* [白皮书·中文](http://blog.csdn.net/fengqing79/article/details/70154076)
+* [白皮书·英文](https://www.bigchaindb.com/whitepaper/)
+
+----------------
+
 ## Blockchain v2.0 - Ethereum
 
 ### [Ethereum - ETH](https://ethereum.org/) - (v2.0 - 智能合约), [github](https://github.com/ethereum/go-ethereum)
@@ -141,13 +174,18 @@
 
 ### Dapps
 
+* [谈谈区块链（15）：盘点以太坊十大应用](http://www.8btc.com/ethereum-top-10-app)
+
 #### The DAO (Ethereum) - 去中心化的自治组织, Decentralized Autonomous Organization
 
 * [道or悼？三分钟看懂史上最逆天的区块链众筹项目The DAO](http://www.8btc.com/what-is-the-dao)
 * [理解The DAO为什么属于证券的最简单方法](http://www.jinse.com/news/blockchain/50751.html)
 * [从“脱欧”与“惊世DAO窃”谈区块链——论共识、分叉、去中心化与安全](http://www.8btc.com/brexit-and-the-dao)
 
-#### Swarm (Ethereum)
+#### Swarm
+#### Whisper
+#### [BTC Relay](http://btcrelay.org/)
+#### Oraclize
 
 ----------------
 
@@ -197,24 +235,9 @@
     4. 密码原语，一致性协议，和其他算法
 
 * [区块链底层架构概览：第一原则框架](http://ethfans.org/posts/blockchain-infrastructure-landscape-a-first-principles) - 推荐
+* [区块链主流开源技术体系介绍](http://www.8btc.com/elwingao-blockchain-6) - 推荐
 
 ### 去中心化存储
-
-#### [IPFS](https://ipfs.io/)
-
-* [白皮书·中文](https://gguoss.github.io/2017/05/28/ipfs/)
-* [白皮书·英文](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
-
-#### [Filecoin](http://filecoin.io/)
-
-* [白皮书·中文](http://chainx.org/paper/index/index/id/13.html)
-* [白皮书·英文](https://filecoin.io/filecoin.pdf)
-
-#### [BigchainDB](https://www.bigchaindb.com/)
-
-* [白皮书·中文](http://blog.csdn.net/fengqing79/article/details/70154076)
-* [白皮书·英文](https://www.bigchaindb.com/whitepaper/)
-
 ### 去中心化处理
 ### 去中心化通信
 
