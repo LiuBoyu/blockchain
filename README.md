@@ -77,8 +77,6 @@
 
 ## Blockchain v1.0 - Bitcoin
 
-### Bitcoin
-
 * [比特币白皮书：一种点对点的电子现金系统](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
 * [其实并没有什么比特币，只有 UTXO](http://8btc.com/article-4381-1.html)
 * [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm)
@@ -212,15 +210,12 @@
 * [白皮书·英文](https://byteball.org/Byteball.pdf)
 
 ### [EP-CHAIN 环净链](https://ep-chain.org/) - (DAG), 国内ICO项目
-
 * [白皮书·中文](https://ep-chain.org/download/EPC_v1.00.pdf) - 白皮书内有关于IOTA和Byteball的原理说明
 
 ### [Nerthus 纳尔图](http://www.nerthus.io/) - (DAG), 国内ICO项目
-
 * [白皮书·中文](http://www.nerthus.io/static/downfile/NerthusWhitePage.pdf) - 白皮书内有关于IOTA和Byteball的原理说明
 
 ### [AskCoin](https://askcoin.org/) - (DAG), 国内ICO项目
-
 * [白皮书·中文](https://askcoin.org/askcoin_white_paper_cn.pdf) - 白皮书内有关于IOTA和Byteball的原理说明
 
 ----------------
@@ -236,10 +231,6 @@
 
 * [区块链底层架构概览：第一原则框架](http://ethfans.org/posts/blockchain-infrastructure-landscape-a-first-principles) - 推荐
 * [区块链主流开源技术体系介绍](http://www.8btc.com/elwingao-blockchain-6) - 推荐
-
-### 去中心化存储
-### 去中心化处理
-### 去中心化通信
 
 ----------------
 
