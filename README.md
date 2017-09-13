@@ -56,8 +56,22 @@
 
 ### 共识机制
 
+* [共识算法（POW,POS,DPOS,PBFT）介绍和心得](http://blog.csdn.net/lsttoy/article/details/61624287)
+* [掰一掰区块链共识机制与分布式一致性算法](https://yq.aliyun.com/articles/60400)
+* [什么是区块链共识？](http://8btc.com/article-2238-1.html)
+* [区块链共识机制浅谈](http://blog.csdn.net/jeffrey__zhou/article/details/56672948)
+* [区块链共识机制有哪些？](https://www.zhihu.com/question/53385152)
+>
 * [微信PaxosStore：深入浅出Paxos算法协议](http://www.infoq.com/cn/articles/wechat-paxosstore-paxos-algorithm-protocol)
 * [Raft 一致性算法论文译文](http://www.infoq.com/cn/articles/raft-paper)
+>
+* [POS白皮书：基于权益证明的交易](https://yq.aliyun.com/articles/60400)
+* [深度解析POS和POW的区别](http://8btc.com/article-1882-1.html)
+>
+* [DPOS——回归中本聪](http://www.8btc.com/dpos-back-to-satoshi)
+* [信息图：股份授权证明机制（DPOS）](http://www.8btc.com/dpossha)
+>
+* [相比POS和DPOS，POW更有利于区块链原生代币的价格稳定吗？](https://www.zhihu.com/question/49995385)
 
 ### 密码学
 ### 博弈论
@@ -79,9 +93,9 @@
 
 * [比特币白皮书：一种点对点的电子现金系统](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
 * [其实并没有什么比特币，只有 UTXO](http://8btc.com/article-4381-1.html)
-* [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm)
-* [区块链核心技术演进之路－挖矿演进](http://www.8btc.com/blockchain-tech-mining)
-* [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism)
+* [区块链核心技术演进之路－算法演进](http://www.8btc.com/blockchain-tech-algorithm) - 强烈推荐
+* [区块链核心技术演进之路－挖矿演进](http://www.8btc.com/blockchain-tech-mining) - 强烈推荐
+* [区块链核心技术演进之路-共识机制演进(1)](http://www.8btc.com/blockchain-tech-consensus-mechanism) - 强烈推荐
 
 ### [Bitcoin Core - BTC](https://bitcoin.org/) - (Bitcoin - 交易性能: SegWit), [github](https://github.com/bitcoin/bitcoin)
 
@@ -116,7 +130,7 @@
 * [比特币闪电网络白皮书：可扩展的off-chain 即时支付（中文）](http://view.xiaomiquan.com/view/59a3e22d2540ed222c6075b8)
 * [详解最近大热的闪电网络、雷电网络和CORDA](http://www.8btc.com/ln-rn-corda)
 
-### [Rootstock - RSK](http://www.rsk.co/) - (Bitcoin侧链: 智能合约)
+### [Rootstock - RSK(根链)](http://www.rsk.co/) - (Bitcoin侧链: 智能合约)
 
 * [根链（Rootstock）是什么？](http://www.8btc.com/tan90d88)
 * [根链平台(RootStock)——基于比特币驱动的智能合约白皮书](http://www.8btc.com/tan90d84)
@@ -129,7 +143,7 @@
 
 ----------------
 
-## Blockchain v1.0 - 去中心化存储
+## Blockchain v1.X - 去中心化存储
 
 ### [IPFS](https://ipfs.io/)
 
@@ -145,6 +159,20 @@
 
 * [白皮书·中文](http://blog.csdn.net/fengqing79/article/details/70154076)
 * [白皮书·英文](https://www.bigchaindb.com/whitepaper/)
+
+----------------
+
+## Blockchain v1.X - 二代币
+
+* [梦一直跑，我开始追](http://www.8btc.com/dream-on)
+* [二代币是”富二代”还是”穷二代”？](http://www.8btc.com/edb)
+
+### [Ripple - (瑞波)]()
+### [NXT - (未来币)]()
+
+### [BitShares - (比特股)](https://bitshares.org/) - (共识机制: DPOS, 去中心化: DAC), [github](https://github.com/BitShares)
+
+* [白皮书·中文](http://www.8btc.com/bitshares-white-pape)
 
 ----------------
 
