@@ -70,6 +70,8 @@
 >
 * [DPOS——回归中本聪](http://www.8btc.com/dpos-back-to-satoshi)
 * [信息图：股份授权证明机制（DPOS）](http://www.8btc.com/dpossha)
+* [DPOS共识算法 -- 缺失的白皮书](https://steemit.com/dpos/@legendx/dpos)
+* [DPOS委托权益证明 vs POW工作量证明](https://zhuanlan.zhihu.com/p/28127511)
 >
 * [相比POS和DPOS，POW更有利于区块链原生代币的价格稳定吗？](https://www.zhihu.com/question/49995385)
 
@@ -166,6 +168,7 @@
 
 * [梦一直跑，我开始追](http://www.8btc.com/dream-on)
 * [二代币是”富二代”还是”穷二代”？](http://www.8btc.com/edb)
+* [给新手：区块链资产的分类与价值判断](https://zhuanlan.zhihu.com/p/27415529)
 
 ### [Ripple - (瑞波)]()
 ### [NXT - (未来币)]()
@@ -173,6 +176,24 @@
 ### [BitShares - (比特股)](https://bitshares.org/) - (共识机制: DPOS, 去中心化: DAC), [github](https://github.com/BitShares)
 
 * [白皮书·中文](http://www.8btc.com/bitshares-white-pape)
+
+### [Cryptonomex - (石墨烯)](https://cryptonomex.com/) - (BitShares v2.0 底层框架), [github](http://github.com/cryptonomex)
+
+* [区块链公司Cryptonomex创始人谈公司发展状况](http://www.8btc.com/cryptonomex-dan-larimer)
+
+----------------
+
+## Blockchain v1.X - Dapps
+
+### [Steem](https://steem.io/) - 推荐(非常典型的区块链应用项目 - [steemit](https://steemit.com/)), [github](http://github.com/steemit)
+
+* [白皮书·中文](https://biweilai.com/tag/steem)
+* [白皮书·英文](https://steem.io/SteemWhitePaper.pdf)
+
+### [YOYOW](https://yoyow.org/) - 推荐(Steem的中文克隆)
+
+* [白皮书·中文](https://yoyow.org/files/white-paper2.pdf)
+* [一个基于区块链的UGC平台，他们想用“脑力挖矿”让作者得到合理的回报](http://www.jianshu.com/p/e044e51e06bb)
 
 ----------------
 
@@ -217,6 +238,13 @@
 
 ## Blockchain v2.0 - Others
 
+### [EOS](https://eos.io/) - [github](https://github.com/eosio)
+
+* [EOS正式版技术白皮书（中文）](http://www.jianshu.com/p/f65bf7691482)
+* [解读《EOS.IO技术白皮书》](http://www.jianshu.com/p/bc489db794ce)
+>
+* [深入浅出eos vs 以太坊](http://www.jianshu.com/p/1afec85afd3c)
+
 ### NEO
 ### Qtum
 
@@ -259,6 +287,7 @@
 
 * [区块链底层架构概览：第一原则框架](http://ethfans.org/posts/blockchain-infrastructure-landscape-a-first-principles) - 推荐
 * [区块链主流开源技术体系介绍](http://www.8btc.com/elwingao-blockchain-6) - 推荐
+* [小蚁张铮文：写给CTO的主流区块链架构横向剖析](http://www.8btc.com/blockchain-architecture)
 
 ----------------
 
