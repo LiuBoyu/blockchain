@@ -1,4 +1,4 @@
-## 去中心化\(Decentralization\)
+## 去中心化(Decentralization)
 
 ### 什么是去中心化
 
