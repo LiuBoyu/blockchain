@@ -24,7 +24,7 @@
 
 ### 参考文献:
 
-* [The Meaning of Decentralization - Vitalik Buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) - 2017.02.06 | [ 译文:[去中心化的真正含义](http://www.8btc.com/the-meaning-of-decentralization)]
+* [The Meaning of Decentralization - Vitalik Buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) - 2017.02.06 | [ 译文:[去中心化的真正含义](http://www.8btc.com/the-meaning-of-decentralization) ]
   > _**摘要**: 当人们在讨论软件的去中心化时，他们实际上在讨论的，是三个独立的中心化/去中心化的轴（架构，政治，逻辑）。在某些情况下很难看的清如何在没有另一个的情况下，能判定现在的这个是中心化还是去中心化的。_
   > _**图例**:_
   > * ![图例](http://7fvhfe.com1.z0.glb.clouddn.com/wp-content/uploads/2017/02/p11.png)
