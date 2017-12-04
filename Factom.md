@@ -1,5 +1,6 @@
 
 ## [Factom(公证通)](https://www.factom.com), [github](https://github.com/FactomProject/factomd)
+  > _**备注**: 此章节最后更新于2017.12.04。_
 
 ### 基础概念
 
