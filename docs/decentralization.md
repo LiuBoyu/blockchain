@@ -1,6 +1,8 @@
-## 去中心化(Decentralization)
+## 去中心化(Decentralization) ##
 
-### 什么是去中心化
+  > _**备注**: 此章节最后更新于2017.11.21。_
+
+### 什么是去中心化 ###
 
 * 结构中心化: 淘宝 & 京东 vs BitTorrent & Blockchain
   > 评论: 挖矿的高度集中化，导致结构中心化的趋势
@@ -9,20 +11,20 @@
 * 逻辑中心化: CDN & BitTorrent vs Blockchain
   > 评论: 逻辑中心化的判断依据为任意切分后是否可独立运转，类似于有状态服务和无状态服务
 
-### 去中心化的理由:
+### 去中心化的理由: ###
 
 * 高容错
 * 抗攻击
 * 抗共谋
 
-### 去中心化的思考
+### 去中心化的思考 ###
 
     并非乌托邦式的理想
     但我们对其期望太高
     还需要走很长的道路
     去中心化与中心化的对立与统一 - 比特币交易所,矿池
 
-### 参考文献:
+### 参考文献 ###
 
 * [The Meaning of Decentralization - Vitalik Buterin](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) - 2017.02.06 | [ 译文:[去中心化的真正含义](http://www.8btc.com/the-meaning-of-decentralization) ]
   > _**摘要**: 当人们在讨论软件的去中心化时，他们实际上在讨论的，是三个独立的中心化/去中心化的轴（架构，政治，逻辑）。在某些情况下很难看的清如何在没有另一个的情况下，能判定现在的这个是中心化还是去中心化的。_  
@@ -30,7 +32,7 @@
   > * ![图例](http://7fvhfe.com1.z0.glb.clouddn.com/wp-content/uploads/2017/02/p11.png)
   > * ![图例](http://7fvhfe.com1.z0.glb.clouddn.com/wp-content/uploads/2017/02/p21.png)
 
-### 其他文献:
+### 其他文献 ###
 
 * [严重中心化问题可能导致比特币大崩溃](http://opinion.caixin.com/2017-06-02/101097147.html) - 2017.06.02
   > _**摘要**: 但凡违背了自己理想和初衷的系统，它的最终发展总是存疑的。_  

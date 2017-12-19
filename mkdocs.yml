@@ -1,7 +1,7 @@
 site_name: Thinking in Blockchain
+
 pages:
-- 'Introduction': 'README.md'
-- '去中心化(Decentralization)': 'Decentralization.md'
-- 'Factom(公证通)': 'Factom.md'
-- 'Hyperledger(超级账本)': 'Hyperledger.md'
-docs_dir: .
+- 去中心化(Decentralization): decentralization.md
+- Hyperledger(超级账本): hyperledger.md
+- Factom(公证通): factom.md
+- Ripple(瑞波币): ripple.md

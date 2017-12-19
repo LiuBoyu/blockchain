@@ -1,11 +1,10 @@
-# Thinking in Blockchain #
-
-## [Hyperledger(超级账本)](https://www.hyperledger.org) - [github](https://github.com/hyperledger) ##
+## [Hyperledger(超级账本)](https://www.hyperledger.org) ##
 
 > _**备注**: 此章节最后更新于2017.12.19。_
 
 ### 基础概念 ###
 
+* [项目源码 - GitHub](https://github.com/hyperledger)
 * [超级账本Hyperledger白皮书（中文版）](http://8btc.com/doc-view-605.html) [在线阅读](https://mp.weixin.qq.com/s?src=11&timestamp=1513663485&ver=583&signature=JXLkEOWKeA4RILP00RDhsrbAYJ9i-SEuVrrWb5FgPSy3zcuWbb-iSPxwg6XB77gUqo1gmSjbdhz9srXUYIgmz2mP-6qp*tXx0KDomoEfrA1MuCz1vQKUAlvfkBAxrqkK) - 2016.05.19
 * [超级账本Hyperledger白皮书（1.0.1版）](http://www.8btc.com/hyperledger-whitepaper) - 2016.07.18
   > _**摘要**: 本白皮书描述了区块链的行业应用案例，以推动形成新的区块链结构原理。另外，本白皮书根据这些应用案例，列出了针对区块链的基本需求和高级体系结构。_
