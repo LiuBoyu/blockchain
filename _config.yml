@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 plugins:
  - jekyll-feed
  - jekyll-redirect-from
