@@ -6,3 +6,5 @@ pages:
 - Hyperledger(超级账本): hyperledger.md
 - Factom(公证通): factom.md
 - Ripple(瑞波币): ripple.md
+- '周刊':
+  - '20180409': 'weekly/20180409.md'
