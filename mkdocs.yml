@@ -6,5 +6,5 @@ pages:
 - Hyperledger(超级账本): hyperledger.md
 - Factom(公证通): factom.md
 - Ripple(瑞波币): ripple.md
-- 'SCII区块链实验室·每周汇总':
-  - '20180416': 'weekly/Weekly.20180416.md'
+- 'SCII区块链实验室':
+  - '每周汇总·20180416': 'weekly/Weekly.20180416.md'

@@ -83,9 +83,9 @@
 > _**摘录**:_  
 > 2016年10月，工信部发布了第一本《区块链技术性白皮书》，侧重于区块链技术的研究和探讨。2016年12月，贵阳市政府发布了第二本《区块链发展白皮书》，注重对区块链概念的阐述和理解。此次《中国链湾白皮书》是我国第一本详细描述区块链创新发展模式、打造区块链创新产业生态平台的白皮书。  
 
-## 讨论
+## 其他
 
 * 2018.04.20|[金融]|[上交所前总工白硕：去中心化交易所，出事也得“有人担责”](http://www.8btc.com/operation_exchange_facebook)
 * 2018.04.17|[金融]|[区块链如何构筑保险新生态？](http://www.8btc.com/blockchain-insurance-ecology)
 * 2018.04.16|[供应链]|[区块链整合将改善企业效率和透明度，但距离现实落地还要等多久？](http://www.8btc.com/blockchain-integration-will-improve-corporate-efficiency)
-* 2018.03.23|[低碳]|[区块链搞不懂？我用碳圈行话来给你讲！](https://mp.weixin.qq.com/s/J_GokI9bnKrmz1oEFHyQYw)
+* 2018.03.23|[低碳]|[区块链搞不懂？我用碳圈行话来给你讲！](https://mp.weixin.qq.com/s/J_GokI9bnKrmz1oEFHyQYw) - 推荐
