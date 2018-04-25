@@ -1,5 +1,6 @@
 site_name: Thinking in Blockchain
-theme: mkdocs
+theme:
+  name: mkdocs
 
 pages:
 - 前言: index.md
