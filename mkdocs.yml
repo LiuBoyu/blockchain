@@ -1,4 +1,5 @@
 site_name: Thinking in Blockchain
+extra_css: [css/extra.css]
 
 pages:
 - 前言: index.md
