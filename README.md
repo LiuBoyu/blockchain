@@ -11,7 +11,8 @@ Email: boyu.liu@gmail.com
 ### 入门书籍
 
 * [<<区块链技术指南>>](https://yeasy.gitbooks.io/blockchain_guide/content)
-* [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book) - 强烈推荐
+* [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book) - 强烈推荐 [第二版阅读地址](https://wizardforcel.gitbooks.io/masterbitcoin2cn/content/ch01.html) [github](https://github.com/tianmingyun/MasterBitcoin2CN)
+* <<精通以太坊>> [英文原版](https://github.com/ethereumbook/ethereumbook) [中文版](https://github.com/inoutcode/ethereum_book)
 
 ### 行业报告
 
